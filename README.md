@@ -2,7 +2,7 @@
 **Universidade do Estado do Rio de Janeiro (UERJ) – 2025**
 
 ## Sobre
-Projeto de Ciência de Dados aplicado à previsão de rotatividade de funcionários, desenvolvido ao longo da graduação. O trabalho cobre o pipeline completo: definição do escopo, preparação e limpeza dos dados, análise exploratória, engenharia de features, modelagem e avaliação.
+Projeto de Ciência de Dados aplicado à previsão de rotatividade de funcionários, desenvolvido ao longo da graduação. O projeto envolveu desde o entendimento do problema até a preparação dos dados, análise exploratória e desenvolvimento de modelos de Machine Learning em Python.
 
 ## Ferramentas e bibliotecas
 - Python  
